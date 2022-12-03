@@ -1,4 +1,4 @@
-# Reposaitório de Estudos Git/GitHub 
+# Repositório de Estudos Git/GitHub 
 Repositorio para Estudos Git/GitHub
 
 
